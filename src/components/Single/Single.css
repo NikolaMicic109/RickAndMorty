@@ -1,0 +1,20 @@
+.singleChar{
+    color: white;
+    width: 30%;
+    margin: 50px auto;
+    text-align: center;
+    border: 2px solid #008080;
+    border-radius: 20px;
+    background-color: teal;
+}
+
+
+.singleChar h4{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.singleChar img{
+    border-radius: 20px;
+}

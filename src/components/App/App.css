@@ -1,0 +1,23 @@
+
+
+*{
+  margin: 0;
+}
+
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(https://i.pinimg.com/originals/e2/fb/0b/e2fb0b2ac9b7e82275eacc8c2ee9c846.jpg);
+ 
+  background-size: cover;
+}
+
+header{
+  background-color: teal;
+  padding: 10px 0 10px 0;
+}
+
+header h3{
+  color: white;
+  margin-left: 10px;
+  font-size: 30px;
+}
